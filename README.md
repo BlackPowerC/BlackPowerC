@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **<a href="mailto:jordy.fatigba@theopentrade.com">jordy.fatigba@theopentrade.com</a>**
 
-- ⚡ Fun fact **I love cooking and !**
+- ⚡ Fun fact **I love cooking !**
 
 
 <h4 align="left">Languages and Tools:</h4>
