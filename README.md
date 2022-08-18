@@ -1,85 +1,55 @@
 <h1 align="center">
-  <samp>Hi 👋🏾, I'm Gauthier EHOLOUM <samp> <br>
-  (aka gausoft)
+  <samp>Hi 👋🏾, I'm Jordy FATIGBA <samp> <br>
+  (aka BlackPowerC)
 </h1>
     
     
 <p align="center">
   <samp>
-    Backend PHP Developer @ITVOG | Will code for amazing projects and stock options | Ping Pong, Cartoon & Animes lover
+    Web Developer <a href="https://www.linkedin.com/mwlite/company/semoa-group" title="Semoa Group" target="_blank">@SemoaGroup</a> | I'm passionate by JAVA and his ecosystem.
   </samp>
+  <samp><br/>
+  Co-Founder of <a href="https://theopentrade.com" target="_blank" title="Open Trade">Open Trade</a>, an online sale marketplace.
+  </spam>
 </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **VueJS, WordPress and Spring Boot**
 
-- 💬 Ask me about **Flutter, PHP, Laravel**
+- 📫 How to reach me **<a href="mailto:jordy.fatigba@theopentrade.com">jordy.fatigba@theopentrade.com</a>**
 
-- 📫 How to reach me **gausoft@proton.me**
-
-- ⚡ Fun fact **I love Flutter!**
+- ⚡ Fun fact **I love cooking and !**
 
 
 <h4 align="left">Languages and Tools:</h4>
+<!-- php, symfony, laravel, java, docker, bootstrap, mysql -->
 <p>
 <a href="https://www.php.net" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="48" height="48"/> 
 </a> 
   
-<a href="https://getbootstrap.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
- 
-<a href="https://tailwindcss.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+<a href="https://symfony.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="48" height="48"/>
 </a>
   
 <a href="https://laravel.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-  
-<a href="https://symfony.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> 
-</a>   
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="48" height="48"/>
+</a>
+ 
+<a href="https://openjdk.org/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="laravel" width="48" height="48"/>
+</a>
+ 
+<a href="https://www.docker.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="48" height="48"//>
+</a>
+ 
+<a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="docker" width="48" height="48"//>
 </a>
 
-<a href="https://flutter.dev" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://mariadb.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.sqlite.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>   
-</p>
+See my complete resume <a href="https://cvdesignr.com/p/62d56ddbae420" target="_blank" title="my resume">here</a> !
 
 ### Contact me via 👇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gauthier-eholoum)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/gausoft_)
-
-### 📕 Latest blog posts
-
-* [Bienvenue sur mon blog](https://gausoft.herokuapp.com/bienvenue-sur-mon-blog)
-* [Comment intégrer la passerelle de paiement Paygate (Togo) à Laravel?](https://gausoft.medium.com/comment-int%C3%A9grer-la-passerelle-de-paiement-paygate-togo-%C3%A0-laravel-67baee3bdb6b)
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gausoft&show_icons=true&locale=en" alt="emrade" /></p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jordy-fatigba-5028ba99/)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/jordy_fatigba)
