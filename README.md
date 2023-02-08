@@ -5,12 +5,8 @@
     
     
 <p align="center">
-  <samp>
-    Web Developer <a href="https://www.linkedin.com/mwlite/company/semoa-group" title="Semoa Group" target="_blank">@SemoaGroup</a> | I'm passionate by JAVA and his ecosystem.
-  </samp>
-  <samp><br/>
-  Co-Founder of <a href="https://theopentrade.com" target="_blank" title="Open Trade">Open Trade</a>, an online sale marketplace.
-  </spam>
+  <samp>I'm passionate by JAVA and his ecosystem.</samp>
+  <samp><br/>Co-Founder of <a href="https://theopentrade.com" target="_blank" title="Open Trade">Open Trade</a>, an online sale marketplace.</spam>
 </p>
 
 - 🌱 I’m currently learning **VueJS, WordPress and Spring Boot**
