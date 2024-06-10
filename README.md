@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **VueJS, WordPress and Spring Boot**
 
-- 📫 How to reach me **<a href="mailto:jordy.fatigba@theopentrade.com">jordy.fatigba@theopentrade.com</a>**
+- 📫 How to reach me **<a href="mailto:fatigba72@gmail.com">fatigba72@gmail.com</a>**
 
 - ⚡ Fun fact **I love cooking !**
 
